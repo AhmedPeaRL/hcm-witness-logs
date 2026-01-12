@@ -1,0 +1,11 @@
+{
+  "witnessing": {
+    "enabled": true,
+    "requires_subject": false,
+    "requires_object": false
+  },
+  "narrative": {
+    "allowed": false
+  },
+  "principle": "Witnessing occurs without explanation."
+}
