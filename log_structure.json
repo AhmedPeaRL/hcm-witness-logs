@@ -1,0 +1,14 @@
+{
+  "log_format": {
+    "timestamp": "optional",
+    "source": "unknown",
+    "content": "minimal"
+  },
+  "forbidden_fields": [
+    "reason",
+    "meaning",
+    "outcome",
+    "identity"
+  ],
+  "principle": "A log may exist without context."
+}
